@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Contractor.API.props" />
+</Project>
